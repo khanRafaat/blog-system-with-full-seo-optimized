@@ -1,0 +1,503 @@
+@media only screen and (max-width: 600px) {
+    .blog .entry .entry-img {
+        height: 300px !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: -30px -15px 20px -15px !important;
+        overflow: hidden;
+        margin-top: 30px !important;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 1024px) {
+    .navbar-custom .textLogo {
+        font-size: 20px !important;
+        color: white;
+    }
+
+    .explorenav {
+        display: block !important;
+    }
+
+
+
+}
+
+
+@media only screen and (max-width: 820px) {
+
+
+    .navbar-custom .textLogo b {
+        font-size: 15px !important;
+        color: black;
+    }
+
+    .offsetNav {
+        color: black !important;
+        font-size: 15px;
+    }
+
+    .offsetnavmargin {
+        margin-left: 0px !important;
+        width: 150px !important;
+    }
+
+    #homeSearch {
+        justify-content: center !important;
+    }
+
+    .navbar-custom .offsetNav {
+        color: white;
+    }
+
+    .searchbutton {
+        right: -40px;
+    }
+
+    .search {
+        right: 15px;
+    }
+
+    .headingStyle {
+        margin: 10px;
+        margin-top: 150px;
+        background-color: #D3D4D5;
+        border-radius: 5px;
+    }
+
+    .headingStyle {
+        padding: 10px !important;
+    }
+
+    .headingStyle h1 {
+        font-size: 2rem;
+    }
+
+    .headingStyle h2 {
+        font-size: 1.5rem;
+    }
+
+    .carousel .carousel-item {
+        height: 270px;
+    }
+
+    .headings h2 {
+        font-size: 22px;
+        font-family: 'Poppins';
+    }
+
+    .headings h3 {
+        font-size: 22px;
+        font-family: 'Poppins';
+    }
+
+    .search:focus {
+        width: 250px;
+
+    }
+
+    .carousel .carousel-item {
+        height: 350px !important;
+    }
+
+    /* .homeSlider {
+        margin-top: 30px !important;
+    } */
+
+    .navbar-custom .nav-item .nav-link {
+        font-size: 9px !important;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+
+    .explorenav {
+        display: block !important;
+    }
+
+    .headingStyle {
+        margin: 10px;
+        margin-top: 150px;
+        background-color: #D3D4D5;
+        border-radius: 5px;
+        padding: 5px;
+        height: 690px;
+    }
+
+    .img-fluid {
+        padding-top: 249px;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 912px) {
+
+    
+
+    .navbar-custom .textLogo b {
+        font-size: 15px !important;
+        color: black;
+    }
+
+    .offsetNav {
+        color: black !important;
+        font-size: 15px;
+    }
+
+    .offsetnavmargin {
+        margin-left: 0px !important;
+        width: 150px !important;
+    }
+
+    #homeSearch {
+        justify-content: center !important;
+    }
+
+    .navbar-custom .offsetNav {
+        color: white;
+    }
+
+    .searchbutton {
+        right: -40px;
+    }
+
+    .search {
+        right: 15px;
+    }
+
+    .headingStyle {
+        margin: 10px;
+        margin-top: 150px;
+        background-color: #D3D4D5;
+        border-radius: 5px;
+    }
+
+    .headingStyle {
+        padding: 10px !important;
+    }
+
+    .headingStyle h1 {
+        font-size: 2rem;
+    }
+
+    .headingStyle h2 {
+        font-size: 1.5rem;
+    }
+
+    .carousel .carousel-item {
+        height: 270px;
+    }
+
+    .headings h2 {
+        font-size: 22px;
+        font-family: 'Poppins';
+    }
+
+    .headings h3 {
+        font-size: 22px;
+        font-family: 'Poppins';
+    }
+
+    .search:focus {
+        width: 250px;
+
+    }
+
+    .carousel .carousel-item {
+        height: 204px !important;
+    }
+
+    /* .homeSlider {
+        margin-top: 30px !important;
+    } */
+
+    .navbar-custom .nav-item .nav-link {
+        font-size: 12px !important;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+
+    .explorenav {
+        display: block !important;
+    }
+
+    .headingStyle {
+        margin: 10px;
+        margin-top: 150px;
+        background-color: #D3D4D5;
+        border-radius: 5px;
+        padding: 5px;
+        height: 690px;
+    }
+
+    .img-fluid {
+        padding-top: 249px;
+        max-width: 100%;
+        height: auto;
+    }
+
+}
+
+
+@media only screen and (min-width: 1366px) {
+ 
+
+    .fShare i {
+        font-size: 14px !important;
+    }
+
+    .offsetNav {
+        color: black !important;
+        font-size: 25px;
+    }
+
+    .navbar-custom .textLogo b {
+        font-size: 18px !important;
+        color: black;
+    }
+
+
+    .header {
+        margin-top: 150px !important;
+    }
+
+    .card-img {
+        height: 350px;
+    }
+
+    .responsiveImg {
+        height: 350px;
+    }
+
+    .search:focus {
+        width: 250px;
+    }
+
+    .carousel .carousel-item {
+        height: 350px !important;
+    }
+
+    /* .homeSlider {
+        margin-top: 30px !important;
+    } */
+
+    .navbar-custom .nav-item .nav-link {
+        font-size: 14px !important;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+
+    .explorenav {
+        display: block !important;
+    }
+    
+    .share-button__back {
+        padding: 2px !important;
+    }
+
+    .section {
+      
+        height: 130vh !important;
+    }
+
+}
+@media only screen and (min-width:1920px) {
+    .section {
+      
+        height: 92vh !important;
+    }
+
+}
+
+@media only screen and (min-width: 2200px) {
+    .offsetNav {
+        color: black !important;
+        font-size: 20px;
+    }
+
+    .explorenav {
+        display: block !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .navbar-custom .nav-item .nav-link {
+        font-size: 15px !important;
+    }
+
+    .navbar-custom .textLogo b {
+        font-size: 17px !important;
+        color: black;
+    }
+
+    .explorenav {
+        display: none;
+
+    }
+
+    .navbar-custom .dropdown-item {
+        color: black;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .search:focus {
+        width: 250px;
+    }
+
+    .carousel .carousel-item {
+        height: 350px !important;
+    }
+
+    /* .homeSlider {
+        margin-top: 30px !important;
+    } */
+
+    .navbar-custom .nav-item .nav-link {
+        font-size: 8px !important;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 5px !important;
+        padding-left: 5px !important;
+    }
+
+    .explorenav {
+        display: block !important;
+    }
+
+    .share-button__back {
+        padding: 2px !important;
+    }
+
+    .section {
+      
+        height: 92vh !important;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+
+    .navbar-custom .navbar-toggler {
+        border: none;
+        color: black;
+        font-size: 1rem !important;
+        margin-right: 28px;
+    }
+
+    .search {
+        height: 35px;
+    }
+
+    .search:focus {
+        width: 250px;
+    }
+
+    .searchbutton {
+
+        width: 74%;
+        height: 74%;
+        margin-right: 10px;
+    }
+
+    .button {
+        line-height: 0;
+    }
+
+    .headings h2 {
+        font-size: 18px;
+        font-family: 'Poppins';
+    }
+
+    .headings h3 {
+        font-size: 18px;
+        font-family: 'Poppins';
+    }
+    .section {
+      
+        height:  400vh  !important;
+      margin-top: -200px;
+    }
+    
+    
+
+
+}
+
+@media only screen and (min-width: 360px) and (max-width: 768px) {
+    /* .mobileMergin{
+        margin-top: 120px;
+    } */
+
+    .carousel-item img {
+        min-height: 247px !important;
+    }
+
+    .carousel-control-next,
+    .carousel-control-prev {
+        top: -84px;
+    }
+
+    .carousel-indicators {
+        bottom: 35px;
+    }
+
+    .carousel-caption {
+        bottom: 60px;
+    }
+
+    .carousel .carousel-item {
+        height: 300px !important;
+    }
+
+    .headingStyle {
+        margin: 10px;
+        margin-top: 150px;
+        background-color: #D3D4D5;
+        border-radius: 5px;
+        padding: 5px;
+        height: 485px;
+    }
+
+    .headingStyle h1 {
+        font-size: 1.6rem;
+        padding: 0%;
+        text-align: center;
+    }
+
+    .headingStyle p {
+        text-align: center;
+    }
+
+    /* .homeImge{
+        display: none;
+    } */
+    .navbar-custom .navbar-toggler {
+        border: none;
+        color: black;
+        font-size: 1rem !important;
+        margin-right: 28px;
+    }
+    .blog .entry .entry-img img {
+        margin-top: -100%;
+        flex-shrink: 0;
+    }
+    
+}

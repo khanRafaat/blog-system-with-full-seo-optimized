@@ -1,0 +1,6 @@
+- name: Generate storage link
+        run: php artisan storage:link
+
+
+        - name: Install Dependencies
+        run: composer update --ignore-platform-reqs
